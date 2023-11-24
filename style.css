@@ -1,0 +1,11 @@
+    :root {
+        background-color: #94c0c8;
+        background-image: url(pets.5.png);
+        background-repeat: no-repeat;
+        background-position-x: right;
+        background-size: 100%;
+    }
+.Menu{
+    background-position: 100%;
+}
+    
